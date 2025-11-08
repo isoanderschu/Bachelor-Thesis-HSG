@@ -21,10 +21,10 @@ Earlier academic literature has consistently found venture capital (VC) funds in
 
 
 ## Repository Structure  
-- **`code/`** – Contains the two Jupyter notebooks used for data preparation and analysis:  
+- **`Code/`** – Contains the two Jupyter notebooks used for data preparation and analysis:  
   - `Data Handling.ipynb` – Preprocessing and preparation of Preqin fund-level data (merging, variable construction, winsorization).  
   - `Descriptive Statistics & Models.ipynb` – Descriptive statistics, OLS regression models (M1–M4), and generation of output tables and figures.  
-- **`tables_and_figures/`** – Contains the final descriptive statistics and regression model results exported from the analysis notebooks.  
+- **`Tables_and_Figures/`** – Contains the final descriptive statistics and regression model results exported from the analysis notebooks.  
 
 
 
